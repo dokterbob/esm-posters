@@ -8,13 +8,13 @@ Posters
 -------
 
 .. image:: https://github.com/dokterbob/esm-posters/raw/master/esm06-1.jpg
-   :target: https://github.com/dokterbob/occupy-together-posters/tree/master/esm06.pdf
+   :target: https://github.com/dokterbob/esm-posters/tree/master/esm06.pdf
 
 .. image:: https://github.com/dokterbob/esm-posters/raw/master/esm06-2.jpg
-   :target: https://github.com/dokterbob/occupy-together-posters/tree/master/esm06.pdf
+   :target: https://github.com/dokterbob/esm-posters/tree/master/esm06.pdf
 
 .. image:: https://github.com/dokterbob/esm-posters/raw/master/esm06-3.jpg
-   :target: https://github.com/dokterbob/occupy-together-posters/tree/master/esm06.pdf
+   :target: https://github.com/dokterbob/esm-posters/tree/master/esm06.pdf
 
 License
 -------
